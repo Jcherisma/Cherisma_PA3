@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9275175-a26d-4e0f-af63-6f94d33a5206" name="Default Changelist" comment="" />
+    <list default="true" id="b72528b0-5abf-4aa6-94dd-e65897af966d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cherisma_p1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cherisma_p1/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cherisma_p1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cherisma_p1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cherisma_p1/out/production/Cherisma_p1/Education.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cherisma_p1/src/Education.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cherisma_p2/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cherisma_p2/TestSavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SavingsAccount.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +27,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SNvq1aAaWzpW3Y1VQmZE5QDnjr" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1T2GzJM7SqjZk9666gEamoVN5cJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Cherisma_P3" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -33,8 +48,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="TestSavingsAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestSavingsAccount" />
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="Cherisma_p2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -42,7 +57,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestSavingsAccount" />
+        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -51,12 +66,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c9275175-a26d-4e0f-af63-6f94d33a5206" name="Default Changelist" comment="" />
-      <created>1571417054544</created>
+      <changelist id="b72528b0-5abf-4aa6-94dd-e65897af966d" name="Default Changelist" comment="" />
+      <created>1572651037860</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571417054544</updated>
+      <updated>1572651037860</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
